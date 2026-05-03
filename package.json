@@ -1,0 +1,25 @@
+{
+  "name": "ip-management",
+  "version": "0.1.0",
+  "description": "Intellectual property management toolkit - Patents, trademarks, designs. Powered by DURY LEGAL.",
+  "keywords": [
+    "ip",
+    "management",
+    "intellectual-property",
+    "trademark",
+    "patent",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/ip-management.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
